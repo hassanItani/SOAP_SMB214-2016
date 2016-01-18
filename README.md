@@ -3,7 +3,7 @@ projet SOAP WebService
 
 le plan du projet parle des points suivants:
 1- Definition du SOAP
-2- Pourquoi utiliser SOAP?
+2- Fonctionnement SOAP?
 3- Architecture
 i- Comment Construire un message SOAP
 ii- Règles de syntaxe
