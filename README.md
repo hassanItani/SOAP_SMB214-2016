@@ -1,4 +1,7 @@
 # SOAP_SMB214-2016
+Nom: hassan kassem itani
+Id: 9724 f
+
 projet SOAP WebService
 
 le plan du projet parle des points suivants:
